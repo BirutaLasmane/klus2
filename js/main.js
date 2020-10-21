@@ -44,7 +44,7 @@ async function raditDatus()
 
     for (let i = 0; i < produktiKopa.length; i++)
     {
-        console.log( produktiKopa[i]['title'] );
+        console.log( produktiKopa[i]['apakstips'] );
     }
     
 }
